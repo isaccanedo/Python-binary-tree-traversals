@@ -1,0 +1,2 @@
+# Python-binary-tree-traversals
+:run: Em ciência da computação, a travessia de árvore (também conhecida como busca em árvore e caminhada na árvore) é uma forma de travessia de gráfico e se refere ao processo de visitar (por exemplo, recuperar, atualizar ou excluir) cada nó em uma estrutura de dados em árvore, exatamente uma vez. Essas travessias são classificadas pela ordem em que os nós são visitados. Os algoritmos a seguir são descritos para uma árvore binária, mas também podem ser generalizados para outras árvores.
